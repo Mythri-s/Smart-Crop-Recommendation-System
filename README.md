@@ -33,7 +33,7 @@ The system uses a dataset containing information about soil conditions, weather 
 
 ## Starting the Project
 
-![start]()
+![start](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/9a4a5f3c424300ae525258ef7c30225530db27b8/imgs/start.png)
 
 
 ## This is our home page:
