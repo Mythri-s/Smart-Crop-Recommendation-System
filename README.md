@@ -46,7 +46,7 @@ The user enters the Environmental details like  **Nitrogen, Phosphorous, Posttas
 
 ![Screenshot (132)](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/65190f6d7d2c6ba87a66d148c4ab5c13f0818da1/imgs/prediction.png)
 
-## Resuts of the crop recommendation
+## Results of the crop recommendation
 These will be results of the crop recommendation, we are recommendting top five crops that can be grown on that soil which have the specitic attributes.
 
 ![crop recommended](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/78265fdafc77effd8927faa923a6c4d3aa5269c7/imgs/croppredicted.png)
