@@ -40,7 +40,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## This is our home page:
 
 ![homepage](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/65190f6d7d2c6ba87a66d148c4ab5c13f0818da1/imgs/homepage.png)
-![homepage2](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/65190f6d7d2c6ba87a66d148c4ab5c13f0818da1/imgs/trynow.png)
+![homepage2](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/ffbee75c57e04f303c119e1f9038e9894cee536d/imgs/trynow.png)
 
 ## User Input
 The user enters the Environmental details like  **Nitrogen, Phosphorous, Posttasium, pH** of soil and submit.
