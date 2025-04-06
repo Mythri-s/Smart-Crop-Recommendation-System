@@ -30,11 +30,10 @@ Crop Recommendation system using Blended XGBoost and SVM machine learning models
 ## Dataset
 The system uses a dataset containing information about soil conditions, weather parameters, and crop yields. Ensure your dataset is formatted correctly before use.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Starting the Project
+
+![start]()
 
 
 ## This is our home page:
@@ -55,8 +54,11 @@ These will be results of the crop recommendation, we are recommendting top five 
 ## Details of 22 Crops
 We have scraped the data fron the official website, which consists details , how each crop can be grown , what are the fertilizers has to be used, what must be the soil fertility and duration of the crop.
 
-![Screenshot (134)](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/65190f6d7d2c6ba87a66d148c4ab5c13f0818da1/imgs/homepage.png)
+![Details](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/de5477befca627e216661ded59ed0e80eac23cb8/imgs/Screenshot%20(29).png)
 
-![Screenshot (135)](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/65190f6d7d2c6ba87a66d148c4ab5c13f0818da1/imgs/homepage.png)
-![Screenshot (136)](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/65190f6d7d2c6ba87a66d148c4ab5c13f0818da1/imgs/homepage.png)
 
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
