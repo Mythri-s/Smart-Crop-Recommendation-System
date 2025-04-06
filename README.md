@@ -32,8 +32,7 @@ The system uses a dataset containing information about soil conditions, weather 
 
 
 ## Starting the Project
-After installing The requirements click Run.And at the bottom click on the running Local server 
-
+After installing the requirements, click "Run". Then, at the bottom, click on the running local server.
 ![start](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/9a4a5f3c424300ae525258ef7c30225530db27b8/imgs/start.png)
 
 
