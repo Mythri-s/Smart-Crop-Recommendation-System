@@ -45,8 +45,6 @@ After installing The requirements click Run.And at the bottom click on the runni
 ## User Input
 The user enters the Environmental details like  **Nitrogen, Phosphorous, Posttasium, pH** of soil and submit.
 
-![croprecommend]()
-
 ![Screenshot (132)](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/65190f6d7d2c6ba87a66d148c4ab5c13f0818da1/imgs/prediction.png)
 
 ## Resuts of the crop recommendation
