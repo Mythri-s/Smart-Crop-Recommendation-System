@@ -58,6 +58,11 @@ We have scraped the data fron the official website, which consists details , how
 ![Details](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/de5477befca627e216661ded59ed0e80eac23cb8/imgs/Screenshot%20(29).png)
 
 
+## Model Performance based on Accuracy and Sensitivity
+
+
+
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
