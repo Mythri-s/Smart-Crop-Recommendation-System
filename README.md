@@ -50,6 +50,7 @@ The user enters the Environmental details like  **Nitrogen, Phosphorous, Posttas
 These will be results of the crop recommendation, we are recommendting top five crops that can be grown on that soil which have the specitic attributes.
 
 ![crop recommended](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/78265fdafc77effd8927faa923a6c4d3aa5269c7/imgs/croppredicted.png)
+![crop details](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/382a9883beea3374f455cf4858194f9bd7aa4b11/imgs/Screenshot%20(31).png)
 
 ## Details of 22 Crops
 We have scraped the data fron the official website, which consists details , how each crop can be grown , what are the fertilizers has to be used, what must be the soil fertility and duration of the crop.
