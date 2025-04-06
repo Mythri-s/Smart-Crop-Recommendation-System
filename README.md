@@ -59,7 +59,10 @@ We have scraped the data fron the official website, which consists details , how
 
 
 ## Model Performance based on Accuracy and Sensitivity
+### *Correlation Matrix for the Features*
 ![correlation matrix](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/0165ab7376af8303b5f4ae9d5ae6c418439c8f4a/imgs/correlation.png)
+
+### *Performance of different models*
 ![performance](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/73d982e332f9855d4658b519ccc5370f3db5f69e/imgs/performance.jpg)
 
 
