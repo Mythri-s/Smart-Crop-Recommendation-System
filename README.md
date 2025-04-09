@@ -23,7 +23,7 @@ Crop Recommendation system using Blended XGBoost and SVM machine learning models
 1. Prepare your dataset with the required features (e.g., soil type, temperature, humidity).
 2. Run the main script to get crop recommendations:
     ```bash
-    python main.py
+    python app.py
     ```
 3. Follow the prompts to input your data and receive recommendations.
 
