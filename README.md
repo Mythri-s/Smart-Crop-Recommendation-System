@@ -66,7 +66,7 @@ We have scraped the data fron the official website, which consists details , how
 ![performance](https://github.com/Akhil-peram/Smart-Crop-Recommendation-System/blob/c8ee2759ce7820db2a36e0645088b3b6f7543525/imgs/output.png)
 
 
-## USe Pycharm for Running the Project
+### NOTE: Use Pycharm for Running the Project , for better management of dependencies
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
